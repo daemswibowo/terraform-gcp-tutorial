@@ -12,7 +12,7 @@ After cloning this repository, copy the `terraform.tfvars.example` file to `terr
 cp terraform.tfvars.example terraform.tfvars
 ```
 
-Then modify it to match your configuration. Don't forget to place your GCP service account credentials JSON file to `credentials/my-credentials.json` or you can name it if you wish.
+Then modify it to match your configuration. Don't forget to place your GCP service account credentials JSON file with Project -> Editor role to `credentials/my-credentials.json` or you can name it if you wish.
 
 # Run
 
